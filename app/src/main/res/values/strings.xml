@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Asteroides</string>
+    <string name="str_juego_name">Juego</string>
+    <string name="btn_jugar">Jugar</string>
 </resources>

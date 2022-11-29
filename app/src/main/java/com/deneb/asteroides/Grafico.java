@@ -26,6 +26,7 @@ public class Grafico {
         canvas.save();
         canvas.rotate((float) angulo, cenX, cenY);
         drawable.draw(canvas);
+        canvas.restore();
         xAnterior = cenX;
         yAnterior = cenY;
     }
